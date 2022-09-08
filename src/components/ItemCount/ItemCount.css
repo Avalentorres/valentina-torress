@@ -1,0 +1,16 @@
+.contador-flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 1rem;
+    gap: 2rem;
+}
+
+.contador-btn {
+    font-size: 2rem;
+    border-radius: 6px;
+}
+
+.btn-bloqueado {
+    background-color: cadetblue;
+}
