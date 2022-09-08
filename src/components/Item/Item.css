@@ -1,0 +1,29 @@
+h3 {
+    text-transform: uppercase;
+    font-size: 1.5rem;
+
+}
+
+button {
+    background-color:tan;
+    color: olive;
+    border-radius: 7px;
+    border:tan solid 1px;
+    padding: 5px 15px;
+
+}
+
+.card {
+    border:tan 1px solid;
+    padding: 10px 20px;
+    width: 80%;
+    margin: 1rem;
+}
+
+img {
+    min-height: 50%;
+    max-width: 60%;
+    min-height: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
